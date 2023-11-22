@@ -3,3 +3,5 @@ Intelligent digital identification of low-quality electrical engineering drawing
 
 
 All work is based on mmdetection and mmediting
+
+Already used as an auxiliary function of the beta version of China Electric Power Setting Calculation Software RelayCAC
