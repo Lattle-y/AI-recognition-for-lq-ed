@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['and', 'nand', 'nor', 'not', 'or', 'xnor', 'xor']
+
+roboflow:
+  workspace: rp-project
+  project: circuit-recognition-electronics
+  version: 6
+  license: MIT
+  url: https://universe.roboflow.com/rp-project/circuit-recognition-electronics/dataset/6
